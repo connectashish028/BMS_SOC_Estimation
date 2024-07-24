@@ -68,6 +68,12 @@ Various metrics from the BMS have been stored in InfluxDB over several weeks, al
 - Explore more sophisticated cycle detection algorithms.
 - Investigate machine learning techniques for SOC estimation.
 
+## Inspiration
+
+This project was inspired by the work of **alexdatadesign** on improving SOC estimation techniques for Lithium Iron Phosphate batteries. Their research highlighted the impact of accurate SOC on battery performance and motivated me to explore this area further.
+
+Link to his repository for further research: https://github.com/alexdatadesign/lfp_soc_ml/tree/main
+
 ## Contributing
 
 Contributions and suggestions for improvement are welcome! Feel free to open issues or submit pull requests.
